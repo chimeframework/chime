@@ -1,0 +1,18 @@
+[submodule "routing"]
+	path = routing
+	url = git@github.com:chimeframework/routing.git
+[submodule "yaml"]
+	path = yaml
+	url = git@github.com:chimeframework/yaml.git
+[submodule "httpcontext"]
+	path = httpcontext
+	url = git@github.com:chimeframework/httpcontext.git
+[submodule "config"]
+	path = config
+	url = git@github.com:chimeframework/config.git
+[submodule "httpkernel"]
+	path = httpkernel
+	url = git@github.com:chimeframework/httpkernel.git
+[submodule "eventdispatcher"]
+	path = eventdispatcher
+	url = git@github.com:chimeframework/eventdispatcher.git

@@ -16,3 +16,6 @@
 [submodule "components/routing"]
 	path = components/routing
 	url = git@github.com:chimeframework/routing.git
+[submodule "bundles/framework"]
+	path = bundles/framework
+	url = git@github.com:chimeframework/bundle.git
